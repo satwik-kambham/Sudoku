@@ -7,7 +7,7 @@ written by Kambham Satwik
 Github: https://github.com/code-explorer
 
 Instructions:
-1. When starting a new game, press q to exit or enter to start a new game.
+1. When starting a new game, press enter to start a new game or q to quit.
 2. Once the game has started give the inputs of the coordinates in the format 'x-coordinate y-coordinate', i.e, give the coordinate inputs with a space in between them.
 
 Your sudoku table will look like this.
