@@ -11,7 +11,7 @@ Instructions:
 2. Once the game has started give the inputs of the coordinates in the format 'x-coordinate y-coordinate', i.e, give the coordinate inputs with a space in between them.
 
 Your sudoku table will look like this.
-
+![Image of sudoku](https://github.com/code-explorer/Sudoku-v1/blob/main/Capture.JPG)
 If you want to place a number in an empty spot denoted by 0, then type in the coordinates of the number followed by the number you want to place.
 
 The coordinate system is as follows:
