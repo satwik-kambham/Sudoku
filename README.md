@@ -1,4 +1,4 @@
-# Sudoku-v1
+# Sudoku
 
 Sudoku project
 
