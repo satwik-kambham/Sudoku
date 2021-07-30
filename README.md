@@ -1,10 +1,6 @@
 # Sudoku
 
-Sudoku project
-
-written by Kambham Satwik
-
-Github: https://github.com/code-explorer
+Sudoku game made using python.
 
 Instructions:
 1. When starting a new game, press enter to start a new game or q to quit.
